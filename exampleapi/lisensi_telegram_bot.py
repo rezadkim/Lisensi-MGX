@@ -7,10 +7,10 @@ from telegram.ext import (
 from datetime import datetime
 
 # Konfigurasi bot
-TOKEN = '8130489744:AAF6c46zwzEDN8pvhdFbKnlI9CO7mds3swk'
+TOKEN = 'tokenbottelegram'
 BASE_URL = 'http://localhost/lisensimanager/api'
-ADMIN_TOKEN = '2e52971b72004c2555b8b59dda0108ae9e157a5d17cbe434a457cffd55c42e3c'
-ADMIN_ID = 6994514050
+ADMIN_TOKEN = 'token dari mgx admin'
+ADMIN_ID = 6994514050 #userid telegram kamu agar dapat mengakses bot
 
 # State conversation
 (
