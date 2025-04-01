@@ -2,6 +2,10 @@
 
 **Lisensi MGX** adalah sistem manajemen lisensi berbasis web yang dirancang untuk membantu developer dalam mengelola lisensi software mereka. Proyek ini memungkinkan verifikasi lisensi secara otomatis melalui antarmuka pengguna dan endpoint API yang siap diintegrasikan dengan aplikasi Anda.
 
+**Username** : *rezadkim*
+<br>
+**Password** : *demomgx*
+
 > Demo & dokumentasi API: [https://demomgx.kitsunexploit.com/pages/dokumentasi.php](https://demomgx.kitsunexploit.com/pages/dokumentasi.php)
 
 ---
